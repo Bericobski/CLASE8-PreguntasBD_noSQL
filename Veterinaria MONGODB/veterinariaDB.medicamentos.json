@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6a9ff1a68a0418a2fc8af9f5"
+  },
+  "nombre": "Amoxicilina",
+  "tipo": "Antibiótico",
+  "stock": 25,
+  "precio": 8500
+},
+{
+  "_id": {
+    "$oid": "6a9ff1a68a0418a2fc8af9f6"
+  },
+  "nombre": "Meloxicam",
+  "tipo": "Antiinflamatorio",
+  "stock": 15,
+  "precio": 7200
+},
+{
+  "_id": {
+    "$oid": "6a9ff1a68a0418a2fc8af9f7"
+  },
+  "nombre": "Antiparasitario",
+  "tipo": "Antiparasitario",
+  "stock": 40,
+  "precio": 5000
+}]

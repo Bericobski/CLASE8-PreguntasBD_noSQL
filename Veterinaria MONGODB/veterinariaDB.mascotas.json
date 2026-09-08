@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "6a9f77b00601c0546d10b9f0"
+  },
+  "nombre": "Toby",
+  "especie": "Perro",
+  "raza": "Golden Retriever",
+  "edad_meses": 36,
+  "dueno": {
+    "nombre": "Carlos Gómez",
+    "telefono": "555-0123",
+    "email": "carlos@email.com"
+  },
+  "historial_medico": [
+    {
+      "fecha": "2026-03-15",
+      "motivo": "Vacuna anual",
+      "veterinario": "Dra. Martínez"
+    },
+    {
+      "fecha": "2026-06-20",
+      "motivo": "Corte de uñas",
+      "veterinario": "Dr. Pérez"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9f77b00601c0546d10b9f1"
+  },
+  "nombre": "Luna",
+  "especie": "Gato",
+  "raza": "Siamés",
+  "edad_meses": 14,
+  "dueno": {
+    "nombre": "María López",
+    "telefono": "555-4567",
+    "email": "maria@email.com"
+  },
+  "historial_medico": [
+    {
+      "fecha": "2026-01-10",
+      "motivo": "Esterilización",
+      "veterinario": "Dra. Martínez"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9f77b00601c0546d10b9f2"
+  },
+  "nombre": "Coco",
+  "especie": "Loro",
+  "raza": "Amazonas",
+  "edad_meses": 48,
+  "dueno": {
+    "nombre": "Luis Fernandez",
+    "telefono": "555-7890",
+    "email": "luis@email.com"
+  },
+  "historial_medico": []
+}]

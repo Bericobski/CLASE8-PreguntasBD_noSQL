@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6a9ff1c38a0418a2fc8af9fb"
+  },
+  "nombre": "Dr. Martín López",
+  "especialidad": "Clínica general",
+  "telefono": "11-2222-3333",
+  "matricula": "VET-001"
+},
+{
+  "_id": {
+    "$oid": "6a9ff1c38a0418a2fc8af9fc"
+  },
+  "nombre": "Dra. Laura Fernández",
+  "especialidad": "Dermatología",
+  "telefono": "11-3333-4444",
+  "matricula": "VET-002"
+},
+{
+  "_id": {
+    "$oid": "6a9ff1c38a0418a2fc8af9fd"
+  },
+  "nombre": "Dr. Pablo Martínez",
+  "especialidad": "Cirugía",
+  "telefono": "11-4444-5555",
+  "matricula": "VET-003"
+}]

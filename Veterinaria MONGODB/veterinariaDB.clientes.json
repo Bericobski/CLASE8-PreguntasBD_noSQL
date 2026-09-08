@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6a9ff1b48a0418a2fc8af9f8"
+  },
+  "nombre": "Juan Pérez",
+  "telefono": "11-4567-8901",
+  "email": "juan@gmail.com",
+  "direccion": "Av. Mitre 1234"
+},
+{
+  "_id": {
+    "$oid": "6a9ff1b48a0418a2fc8af9f9"
+  },
+  "nombre": "María González",
+  "telefono": "11-3456-7890",
+  "email": "maria@gmail.com",
+  "direccion": "Calle Belgrano 567"
+},
+{
+  "_id": {
+    "$oid": "6a9ff1b48a0418a2fc8af9fa"
+  },
+  "nombre": "Carlos Rodríguez",
+  "telefono": "11-5678-1234",
+  "email": "carlos@gmail.com",
+  "direccion": "Av. Rivadavia 890"
+}]
